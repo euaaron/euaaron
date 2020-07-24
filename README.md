@@ -21,22 +21,22 @@
     </tr>
       <td align="center">        
         <a href="https://www.linkedin.com/in/relbeits/">
-          <image width="32px" alt="LinkedIn" src="https://i.imgur.com/JSibq6F.png">
+          <image width="32px" alt="LinkedIn" src="https://i.imgur.com/OQUXwNp.jpg">
         </a>
         <a href="https://stackoverflow.com/users/9829198/relbeits?tab=profile">
-          <image width="32px" alt="Stackoverflow" src="https://i.imgur.com/zScFp4W.png">
+          <image width="32px" alt="Stackoverflow" src="https://i.imgur.com/gZxmnyn.jpg">
         </a>
         <a href="https://app.pluralsight.com/profile/euaaron">
-          <image width="32px" alt="Pluralsight" src="https://i.imgur.com/yyuhMpV.png">
+          <image width="32px" alt="Pluralsight" src="https://i.imgur.com/jZBBBWw.jpg">
         </a>
         <a href="https://www.sololearn.com/Profile/3510236">
-          <image width="32px" alt="Sololearn" src="https://i.imgur.com/WnyXWTp.png">
+          <image width="32px" alt="Sololearn" src="https://i.imgur.com/JYQPHyj.jpg">
         </a>
          <a href="https://connect.unity.com/u/aaron-stiebler">
-          <image width="32px" alt="Unity Connect" src="https://i.imgur.com/ftU4OXP.png">
+          <image width="32px" alt="Unity Connect" src="https://i.imgur.com/akh848u.jpg">
         </a>
         <a href="https://steamcommunity.com/id/relbeits_/">
-          <image width="32px" alt="Steam" src="https://i.imgur.com/bRSWE4P.png">
+          <image width="32px" alt="Steam" src="https://i.imgur.com/lN9wLrE.jpg">
         </a>
       </td>
     </tr>
