@@ -21,13 +21,22 @@
     </tr>
       <td align="center">        
         <a href="https://www.linkedin.com/in/relbeits/">
-          <image width="32px" alt="💬 LinkedIn" src="assets/img/linkedin.png">
+          <image width="32px" alt="LinkedIn" src="./assets/img/linkedin.png">
         </a>
-        <a href="https://www.facebook.com/relbeits">
-          <image width="32px" alt="👯 Facebook" src="assets/img/facebook.png">
+        <a href="https://stackoverflow.com/users/9829198/relbeits?tab=profile">
+          <image width="32px" alt="Stackoverflow" src="./assets/img/stackoverflow.png">
+        </a>
+        <a href="https://app.pluralsight.com/profile/euaaron">
+          <image width="32px" alt="Pluralsight" src="./assets/img/pluralsight.png">
+        </a>
+        <a href="https://www.sololearn.com/Profile/3510236">
+          <image width="32px" alt="Sololearn" src="./assets/img/sololearn.png">
+        </a>
+         <a href="https://connect.unity.com/u/aaron-stiebler">
+          <image width="32px" alt="Unity Connect" src="./assets/img/unity.png">
         </a>
         <a href="https://steamcommunity.com/id/relbeits_/">
-          <image width="32px" alt="⚡ Steam" src="assets/img/steam.png">
+          <image width="32px" alt="Steam" src="./assets/img/steam.png">
         </a>
       </td>
     </tr>
