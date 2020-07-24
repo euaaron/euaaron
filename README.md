@@ -2,18 +2,18 @@
   <thead>
     <tr>
       <td colspan="4" align="center">
-        <b>Aaron Stiebler</b> - CEO DESEKAI Studio &#9642; Desenvolvedor Web Front-end &#9642; Estudante de SI
+        <b>Aaron Stiebler</b> - CEO at DESEKAI Studio &#9642; Front-end Developer &#9642; Information Systems Student
       </td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="justify" colspan="2" rowspan="3">
-        <h1>👋 Oi! Eu sou o Aaron!</h1>
+        <h1>👋 Hi! I'm Aaron!</h1>
         <br>
-        <p>🔭 Atualmente estou no meu primeiro emprego como PJ. Isso mesmo! Eu era desempregado e agora tenho a minha empresa!
-        <br><br>🌱 Estou estudando Angular e Node. Provavel que finalmente crie um projeto real nas próximas semanas.
-        <br><br>💬 Caso precisem de ajuda com Javascript, ou qualquer coisa relacionada a front-end, back-end ou até mesmo design gráfico e audiovisual, pode contar comigo! Adoro resolver problemas e desafios.</p>
+        <p>🔭 I'm currently at my first job as an one man company. You heard right! I was unemployed and now I own a company!
+        <br><br>🌱 I'm also studying Angular and Node.JS, mostly with Pluralsight courses, which I highly recommend.
+        <br><br>💬 If you need help with anything related to programming, designing or even 3D/2D animation, video editing and game development, count with me! I love to be challenged and to help people with theirs.</p>
       </td>
       <td align="center">
         <img src="https://avatars2.githubusercontent.com/u/26356962?s=256&v=4" width="256px">
