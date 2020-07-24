@@ -16,7 +16,7 @@
         <br><br>💬 If you need help with anything related to programming, designing or even 3D/2D animation, video editing and game development, count with me! I love to be challenged and to help people with theirs.</p>
       </td>
       <td align="center">
-        <img src="https://avatars2.githubusercontent.com/u/26356962?s=256&v=4" width="256px">
+        <img src="https://i.imgur.com/ykNzvGj.png" width="256px">
       </td>
     </tr>
       <td align="center">        
