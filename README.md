@@ -21,22 +21,22 @@
     </tr>
       <td align="center">        
         <a href="https://www.linkedin.com/in/relbeits/">
-          <image width="32px" alt="LinkedIn" src="./assets/img/linkedin.png">
+          <image width="32px" alt="LinkedIn" src="https://i.imgur.com/JSibq6F.png">
         </a>
         <a href="https://stackoverflow.com/users/9829198/relbeits?tab=profile">
-          <image width="32px" alt="Stackoverflow" src="./assets/img/stackoverflow.png">
+          <image width="32px" alt="Stackoverflow" src="https://i.imgur.com/zScFp4W.png">
         </a>
         <a href="https://app.pluralsight.com/profile/euaaron">
-          <image width="32px" alt="Pluralsight" src="./assets/img/pluralsight.png">
+          <image width="32px" alt="Pluralsight" src="https://i.imgur.com/yyuhMpV.png">
         </a>
         <a href="https://www.sololearn.com/Profile/3510236">
-          <image width="32px" alt="Sololearn" src="./assets/img/sololearn.png">
+          <image width="32px" alt="Sololearn" src="https://i.imgur.com/WnyXWTp.png">
         </a>
          <a href="https://connect.unity.com/u/aaron-stiebler">
-          <image width="32px" alt="Unity Connect" src="./assets/img/unity.png">
+          <image width="32px" alt="Unity Connect" src="https://i.imgur.com/ftU4OXP.png">
         </a>
         <a href="https://steamcommunity.com/id/relbeits_/">
-          <image width="32px" alt="Steam" src="./assets/img/steam.png">
+          <image width="32px" alt="Steam" src="https://i.imgur.com/bRSWE4P.png">
         </a>
       </td>
     </tr>
