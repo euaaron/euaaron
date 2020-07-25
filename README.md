@@ -1,4 +1,5 @@
 <img src="desekai.svg" />
+<!--
 <table>
   <thead>
     <tr>
@@ -48,7 +49,7 @@
     </tr>
   <tbody>
 </table>
-
+-->
 <!--
 Here some special emojis:
 - 🔭 - 🌱 - 👯 - 🤔 - 💬 - 📫 - 😄 - ⚡
