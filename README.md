@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/8jwAXUi.png" width="100%" />
+<img src="https://i.imgur.com/yECFhE2.png" width="100%" />
 <table>
   <thead>
     <tr>
