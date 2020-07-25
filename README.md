@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/Lohne8n.png" width="100%" />
 <table>
   <thead>
     <tr>
