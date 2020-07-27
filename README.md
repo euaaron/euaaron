@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td align="justify" colspan="2" rowspan="3">
-        <h1>👋 Hi! I'm Aaron!</h1>
+        <h1>🖖 Hi! I'm Aaron!</h1>
         <br>
         <p>🔭 I'm currently at my first job as an one man company. You heard right! I was unemployed and now I own a company!
         <br><br>🌱 I'm also studying Angular and Node.JS, mostly with Pluralsight courses, which I highly recommend.
@@ -49,8 +49,8 @@
   <tbody>
 </table>
 <!--
-Here some special emojis:
+Here some emojis:
 - 🔭 - 🌱 - 👯 - 🤔 - 💬 - 📫 - 😄 - ⚡
-- 🖖 - 📚 - 🦏 - 🤝 - 🥰 
+- 🖖 - 📚 - 🦏 - 🤝 - 🥰 - 👋
 
 -->
