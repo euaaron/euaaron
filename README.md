@@ -3,7 +3,7 @@
   <thead>
     <tr>
       <td colspan="4" align="center">
-        <b>Aaron Stiebler</b> - CEO at DESEKAI Studio &#9642; Front-end Developer &#9642; Information Systems Student
+        <b>Aaron Stiebler</b> - CEO at DESEKAI Studio &#9642; Fullstack Developer &#9642; Information Systems Student
       </td>
     </tr>
   </thead>
