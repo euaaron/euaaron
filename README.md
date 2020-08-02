@@ -13,7 +13,7 @@
         <h1>🖖 Hi! I'm Aaron!</h1>
         <br>
         <p>🔭 I'm currently at my first job as an one man company. You heard right! I was unemployed and now I own a company!
-        <br><br>🌱 I'm also studying Angular and Node.JS, mostly with Pluralsight courses, which I highly recommend.
+        <br><br>🌱 I'm also studying Angular and Node.JS, mostly with Pluralsight and Loiane courses, which I highly recommend.
         <br><br>💬 If you need help with anything related to programming, designing or even 3D/2D animation, video editing and game development, count with me! I love to be challenged and to help people with theirs.</p>
       </td>
       <td align="center">
