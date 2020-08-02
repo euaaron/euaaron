@@ -14,10 +14,14 @@
         <br>
         <p>🔭 I'm currently at my first job as an one man company. You heard right! I was unemployed and now I own a company!
         <br><br>🌱 I'm also studying Angular and Node.JS, mostly with Pluralsight and Loiane courses, which I highly recommend.
-        <br><br>💬 If you need help with anything related to programming, designing or even 3D/2D animation, video editing and game development, count with me! I love to be challenged and to help people with theirs.</p>
+        <br><br>💬 If you need help with anything related to programming, designing or even 3D/2D animation, video editing and game development, count with me! I love to be challenged and to help people with theirs.<br>
+        <br><br>I'm doing a website that will be ready when the version reaches 1.0.0.<br>
+          The actual version is:<br>
+          <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/desekai/desekai.github.io" />
+        </p>
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/ykNzvGj.png" width="256px">
+        <img src="https://i.imgur.com/ykNzvGj.png" width="350px">
       </td>
     </tr>
       <td align="center">        
