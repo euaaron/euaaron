@@ -22,18 +22,18 @@
 <br/>
 <!-- Main Content -->
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;Hi there! I'm a Brazilian student who always loved to create and learn pratical things. If there's a word to describes me it would be <code>creator</code>. I like to create every kind of things, since draws, videos, sculptures, 3D models, animations, softwares, websites, create new food recipes and write fiction stories. I'm now starting my own company called DESEKAI Studio. "DE" = DEveloper, DEsign. And SEKAI = world.<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Hi there! I'm a Brazilian student who always loved to create and learn pratical things. If there's a word to describes me it would be <b>creator</b>. I like to create every kind of things, since draws, videos, sculptures, 3D models, animations, softwares, websites, create new food recipes and write fiction stories. I'm now starting my own company called <b>DESEKAI Studio</b>. "DE" = <b>DE</b>veloper, <b>DE</b>sign. And <b>SEKAI</b> = world.<br/>
   <br/>
-  I'm now learning <b>React</b> and <b>React Native</b> with <a href="https://github.com/rocketseat">@rocketseat</a>'s "<a href="https://nextlevelweek.com/">Next Level Week 2</a>" and trying to figure out which I prefer, <b>Angular</b> or React.
+  I'm now learning React and React Native with <a href="https://github.com/rocketseat">@rocketseat</a>'s "<a href="https://nextlevelweek.com/">Next Level Week 2</a>" and trying to figure out which I prefer, <b>Angular</b> or <b>React</b>.
 </p>
 <h3>Fun and Interesting facts about me:</h3>
 <ul>
   <li>I never throw my earphones or headphones away when they break, so I can fix one using another.</li>
-  <li>I've made a Minecraft mod when I was a teenager and also a showcase on <a href="https://www.youtube.com/watch?v=bGlQ9oIFqCk">YouTube</a>.</li>
+  <li>I've made a <b>Minecraft</b> mod when I was a teenager and also a showcase on <a href="https://www.youtube.com/watch?v=bGlQ9oIFqCk">YouTube</a>.</li>
   <li>I fix my computer myself since when I was 11yo and just let others do after I try.</li>
   <li>I don't have a desk yet, so I stay on bed all the day, even while working.</li>
-  <li>I have diffult to talk with others at the begginig but then I can't stop.</li>
-  <li>I have 48 terrible song records on <a href="https://www.smule.com/relbeits">Smule</a>.</li>
+  <li>I have difficult to talk with others at the begginig but then I can't stop.</li>
+  <li>I have 48 <b>terrible</b> song records on <a href="https://www.smule.com/relbeits">Smule</a>.</li>
   <li>I love to be challenged and help others with.</li>
 </ul>
 <br/>
