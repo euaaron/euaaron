@@ -37,9 +37,9 @@
   <li>I love to be challenged and help others with.</li>
 </ul>
 <br/>
+<!--
 <img src="https://i.imgur.com/yECFhE2.png" width="100%" />
 <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/desekai/desekai.github.io" />
-<!--
 <a href="https://app.pluralsight.com/profile/euaaron"><img width="32px" alt="Pluralsight" src="https://i.imgur.com/jZBBBWw.jpg"></a>
   <a href="https://www.sololearn.com/Profile/3510236"><img width="32px" alt="Sololearn" src="https://i.imgur.com/JYQPHyj.jpg"></a>
   <a href="https://connect.unity.com/u/aaron-stiebler">
