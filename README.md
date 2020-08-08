@@ -37,6 +37,9 @@
   <li>I love to be challenged and help others with.</li>
 </ul>
 <br/>
+
+![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=euaaron&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euaaron&layout=compact&theme=dracula)
+
 <!--
 <img src="https://i.imgur.com/yECFhE2.png" width="100%" />
 <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/desekai/desekai.github.io" />
