@@ -11,9 +11,9 @@
   <!--a href="https://dev.to/euaaron" title="DEV Profile">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aaron Stiebler C. da Silva's DEV Profile" height="22" width="50"></a-->
   <a href="https://github.com/euaaron" title="Follow Me">
-    <img src="https://img.shields.io/github/followers/euaaron?label=Please&logo=github&logoColor=white&style=flat-square" alt="Follow me" /></a>
+    <img src="https://img.shields.io/github/followers/euaaron?label=GitHub&logo=github&logoColor=white&style=flat-square" alt="Follow me" /></a>
   <a href="https://www.linkedin.com/in/relbeits/" title="Linkedin Profile">
-    <img alt="LinkedIn" src="https://img.shields.io/twitter/url?color=b&label=Hire%20me&logo=linkedin&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Frelbeits_"></a>
+    <img alt="LinkedIn" src="https://img.shields.io/twitter/url?color=b&label=LinkedIn&logo=linkedin&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Frelbeits_"></a>
 </div>
 <!-- Title -->
 <div align="center">
