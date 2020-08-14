@@ -40,7 +40,7 @@
 </ul>
 <br/>
 
-![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=euaaron&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euaaron&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euaaron&layout=compact&theme=dracula)
 
 <!--
 <img src="https://i.imgur.com/yECFhE2.png" width="100%" />
