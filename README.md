@@ -26,7 +26,7 @@
 <p align="justify">
   &nbsp;&nbsp;&nbsp;&nbsp;Hi there! I'm a Brazilian student who always loved to create and learn pratical things. If there's a word to describes me it would be <b>creator</b>. I like to create every kind of things, since draws, videos, sculptures, 3D models, animations, softwares, websites, create new food recipes and write fiction stories. I'm now starting my own company called <b>DESEKAI Studio</b>. "DE" = <b>DE</b>veloper, <b>DE</b>sign. And <b>SEKAI</b> = world.<br/>
   <br/>
-  I'm now learning React and React Native with <a href="https://github.com/rocketseat">@rocketseat</a>'s "<a href="https://rocketseat.com.br/">GoStack 13</a>" and trying to figure out which I prefer most, <b>Angular</b> or <b>React</b>. ~Probably React.
+  I'm also learning React and React Native with <a href="https://github.com/rocketseat">@rocketseat</a>'s "<a href="https://rocketseat.com.br/">GoStack 13</a>" and I'm loving it!
 </p>
 <h3>Fun and Interesting facts about me:</h3>
 <ul>
