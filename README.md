@@ -1,5 +1,5 @@
 <p align="center">
-  <code>#HTML</code> &nbsp; <code>#CSS</code> &nbsp; <code>#Javascript</code> &nbsp; <code>#Typescript</code> &nbsp; <code>#JAVA</code> &nbsp; <code>#CSharp</code> &nbsp; <code>#Unity</code> &nbsp; <code>#Blender</code>
+  <code>#HTML</code> &nbsp; <code>#CSS</code> &nbsp; <code>#JavaScript</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#JAVA</code> &nbsp; <code>#CSharp</code> &nbsp; <code>#React</code> &nbsp; <code>#Angular</code> &nbsp; <code>#Unity</code> &nbsp; <code>#Blender</code> &nbsp; <code>#Mongo</code> &nbsp; <code>#Postgres</code> &nbsp; <code>#MySQL</code>
 </p>
 
 <br/>
@@ -42,7 +42,7 @@ Now I'm revising **Angular**, **TDD** and **C#** to be more prepared for the int
 - I've made a **Minecraft** mod when I was a teenager and also a showcase on [YouTube](https://www.youtube.com/watch?v=bGlQ9oIFqCk).
 - I fix my computer myself since when I was a kid and just let others do after I try.
 - I have some difficult to talk with others at the beginning but then I can't stop.
-- I have some **terrible** karaokê records on [Smule](https://www.smule.com/relbeits).
+- I have some **terrible** karaoke records on [Smule](https://www.smule.com/relbeits).
 - I love to be challenged and help others with theirs.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euaaron&layout=compact&theme=dracula)
