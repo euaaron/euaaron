@@ -8,20 +8,20 @@
 
 <!-- Icons -->
 <div align="center">
-  <a href="https://app.rocketseat.com.br/me/aaron">
+  <a href="https://app.rocketseat.com.br/me/aaron" title="Learn With Me">
     <img alt="Rocketseat" src="https://img.shields.io/twitter/url?color=%23995599&label=Rocketseat&logo=rocketseat&logoColor=%23995599&style=flat-square&url=https%3A%2F%2Fapp.rocketseat.com.br%2Fme%2Faaron"></a>
   <!--a href="https://dev.to/euaaron" title="DEV Profile">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aaron Stiebler C. da Silva's DEV Profile" height="22" width="50"></a-->
   <a href="https://github.com/euaaron" title="Follow Me">
-    <img src="https://img.shields.io/github/followers/euaaron?label=GitHub&logo=github&logoColor=white&style=flat-square" alt="Follow me" /></a>
-  <a href="https://www.linkedin.com/in/relbeits/" title="Linkedin Profile">
+    <img src="https://img.shields.io/github/followers/euaaron?label=GitHub&logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/euaaron/" title="Hire me">
     <img alt="LinkedIn" src="https://img.shields.io/twitter/url?color=b&label=LinkedIn&logo=linkedin&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Frelbeits_"></a>
 </div>
 
 <!-- Title -->
 <div align="center">
   <h1 align="center">A A R O N &nbsp; S T I E B L E R</h1>
-  <b>Student | Developer | Generalist</b>
+  <b>Student | Developer | Generalist | GoStack Alumni</b>
 </div>
 
 <br/>
@@ -33,8 +33,6 @@
 </p>
 
 Last year I did [Rocketseat](https://github.com/rocketseat)'s [GoStack bootcamp](https://rocketseat.com.br), where I've learned a lot about the React universe, Typescript, and more... I highly recommend it to everyone.
-
-Now I'm revising **Angular**, **TDD** and **C#** to be more prepared for the internship program that I'll be joining soon.
 
 ### Fun and Interesting facts about me:
 
