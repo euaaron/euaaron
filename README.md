@@ -8,7 +8,7 @@
       <code>#HTML</code> &nbsp; <code>#CSS</code> &nbsp; <code>#JavaScript</code> &nbsp; <code>#TypeScript</code> &nbsp; <code>#JAVA</code> &nbsp; <code>#CSharp</code> &nbsp; <code>#React</code> &nbsp; <code>#Angular</code> &nbsp; <code>#Unity</code> &nbsp; <code>#Blender</code> &nbsp; <code>#Mongo</code> &nbsp; <code>#Postgres</code> &nbsp; <code>#MySQL</code>
   </p>
   <hr/>
-  <b>Student | Developer | Generalist | GoStack Alumni</b>
+  <b>Student | Mid-level Software Developer | Generalist | GoStack Alumni</b>
 </div>
 
 <br/>
