@@ -33,8 +33,6 @@ I'm now focusing at Software Architecture and Design Patterns.
 - I've been programming for 10 years but only now (2022) I've became confident with my programming skills.
 
 <br />
-<hr />
-<br />
 
 <!-- Techs -->
 
