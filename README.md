@@ -13,6 +13,7 @@
 
 <br/>
 
+
 <!-- Main Content -->
 <p align="justify">
   &nbsp;&nbsp;&nbsp;&nbsp;Hi there! I'm a Brazilian who always loved to create things and learn about technology - I mean every kind of tech not only IT. I like to create things like draws, videos, sculptures, 3D models, animations, softwares, websites, create new food recipes or write fiction stories and I'm always trying to learn better ways to do those things. If I would pick a title to describes me would be "Generalist Creator".
@@ -31,6 +32,14 @@ I'm now focusing at Software Architecture and Design Patterns.
 - I have some **terrible** karaoke records on [Smule](https://www.smule.com/relbeits).
 - I love to be challenged and help others with theirs.
 - I've been programming for 10 years but only now (2022) I've became confident with my programming skills.
+
+### Extra
+
+I just did a "badge" that shows what I'm currently listening on Spotify or just don't show anything if I'm not listening to any song.
+
+If you can see it bellow, it means I'm online.
+
+![https://spotify.euaaron.workers.com/](https://spotify.euaaron.workers.dev/now-playing/preview)
 
 <br />
 
