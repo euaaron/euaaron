@@ -33,14 +33,6 @@ I'm now focusing at Software Architecture and Design Patterns.
 - I love to be challenged and help others with theirs.
 - I've been programming for 10 years but only now (2022) I've became confident with my programming skills.
 
-### Extra
-
-I just did a "badge" that shows what I'm currently listening on Spotify or just don't show anything if I'm not listening to any song.
-
-If you can see it bellow, it means I'm online.
-
-![https://spotify.euaaron.workers.com/](https://spotify.euaaron.workers.dev/now-playing/preview)
-
 <br />
 
 <!-- Techs -->
