@@ -29,7 +29,6 @@ I'm now focusing at Software Architecture and Design Patterns.
 - I've made a **Minecraft** mod when I was a teenager and also a showcase on [YouTube](https://youtu.be/bGlQ9oIFqCk).
 - I fix my computer myself since when I was a kid and just let others do after I try.
 - I have some difficult to talk with others at the beginning but then I can't stop.
-- I have some **terrible** karaoke records on [Smule](https://www.smule.com/relbeits).
 - I love to be challenged and help others with theirs.
 - I've been programming for 10 years but only now (2022) I've became confident with my programming skills.
 
